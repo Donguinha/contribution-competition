@@ -2,60 +2,60 @@
   "title": "Contribution Competition",
   "subtitle": "Quem vai dominar o GitHub em 2026?",
   "year": 2026,
-  "updatedAt": "2026-05-28T12:44:41.960Z",
-  "generatedAt": "2026-05-28T12:44:41.960Z",
+  "updatedAt": "2026-05-29T12:26:39.934Z",
+  "generatedAt": "2026-05-29T12:26:39.934Z",
   "range": {
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-28T12:44:41.165Z"
+    "to": "2026-05-29T12:26:39.051Z"
   },
   "competitors": [
-    {
-      "username": "Guilherme-Rodrigues-PX",
-      "name": "Guilherme-Rodrigues-PX",
-      "avatar": "https://avatars.githubusercontent.com/u/187324256?s=200&u=2a6e0f1dcbdfdcee811cff5626a9d6247e046c76&v=4",
-      "profile": "https://github.com/Guilherme-Rodrigues-PX",
-      "contributions": 2110,
-      "commits": 39,
-      "pullRequests": 0,
-      "reviews": 0,
-      "issues": 0,
-      "restrictedContributions": 2069
-    },
     {
       "username": "PXTarda",
       "name": "PXTarda",
       "avatar": "https://avatars.githubusercontent.com/u/236474935?s=200&u=1c80de24a30a77bf285c355d82e747892b940167&v=4",
       "profile": "https://github.com/PXTarda",
-      "contributions": 2099,
+      "contributions": 2257,
       "commits": 0,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 2098
+      "restrictedContributions": 2256
+    },
+    {
+      "username": "Guilherme-Rodrigues-PX",
+      "name": "Guilherme-Rodrigues-PX",
+      "avatar": "https://avatars.githubusercontent.com/u/187324256?s=200&u=2a6e0f1dcbdfdcee811cff5626a9d6247e046c76&v=4",
+      "profile": "https://github.com/Guilherme-Rodrigues-PX",
+      "contributions": 2179,
+      "commits": 40,
+      "pullRequests": 0,
+      "reviews": 0,
+      "issues": 0,
+      "restrictedContributions": 2137
     },
     {
       "username": "pedro-romao-px",
       "name": "pedro-romao-px",
       "avatar": "https://avatars.githubusercontent.com/u/190663628?s=200&u=cc18bb092952e82e6f787742e55599064494b179&v=4",
       "profile": "https://github.com/pedro-romao-px",
-      "contributions": 964,
+      "contributions": 968,
       "commits": 0,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 964
+      "restrictedContributions": 968
     },
     {
       "username": "px-paiola",
       "name": "px-paiola",
       "avatar": "https://avatars.githubusercontent.com/u/241786967?s=200&v=4",
       "profile": "https://github.com/px-paiola",
-      "contributions": 910,
+      "contributions": 919,
       "commits": 0,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 910
+      "restrictedContributions": 919
     }
   ]
 }
