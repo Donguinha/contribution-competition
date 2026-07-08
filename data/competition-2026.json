@@ -2,11 +2,11 @@
   "title": "Contribution Competition",
   "subtitle": "Quem vai dominar o GitHub em 2026?",
   "year": 2026,
-  "updatedAt": "2026-07-07T12:08:22.237Z",
-  "generatedAt": "2026-07-07T12:08:22.237Z",
+  "updatedAt": "2026-07-08T11:15:44.140Z",
+  "generatedAt": "2026-07-08T11:15:44.140Z",
   "range": {
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-07T12:08:21.339Z"
+    "to": "2026-07-08T11:15:43.348Z"
   },
   "competitors": [
     {
@@ -14,12 +14,12 @@
       "name": "Guilherme-Rodrigues-PX",
       "avatar": "https://avatars.githubusercontent.com/u/187324256?s=200&u=2a6e0f1dcbdfdcee811cff5626a9d6247e046c76&v=4",
       "profile": "https://github.com/Guilherme-Rodrigues-PX",
-      "contributions": 3131,
+      "contributions": 3177,
       "commits": 40,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 3089
+      "restrictedContributions": 3135
     },
     {
       "username": "PXTarda",
