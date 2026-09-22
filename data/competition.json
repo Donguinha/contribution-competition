@@ -2,11 +2,11 @@
   "title": "Contribution Competition",
   "subtitle": "Quem vai dominar o GitHub em 2026?",
   "year": 2026,
-  "updatedAt": "2026-09-21T15:52:59.909Z",
-  "generatedAt": "2026-09-21T15:52:59.909Z",
+  "updatedAt": "2026-09-22T14:01:10.642Z",
+  "generatedAt": "2026-09-22T14:01:10.642Z",
   "range": {
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-21T15:52:58.490Z"
+    "to": "2026-09-22T14:01:09.312Z"
   },
   "competitors": [
     {
@@ -14,36 +14,36 @@
       "name": "PXTarda",
       "avatar": "https://avatars.githubusercontent.com/u/236474935?s=200&u=49337c629172548d91a9a4475898b8b0880be678&v=4",
       "profile": "https://github.com/PXTarda",
-      "contributions": 5678,
+      "contributions": 5679,
       "commits": 0,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 5677
+      "restrictedContributions": 5678
     },
     {
       "username": "Guilherme-Rodrigues-PX",
       "name": "Guilherme-Rodrigues-PX",
       "avatar": "https://avatars.githubusercontent.com/u/187324256?s=200&u=2a6e0f1dcbdfdcee811cff5626a9d6247e046c76&v=4",
       "profile": "https://github.com/Guilherme-Rodrigues-PX",
-      "contributions": 5215,
+      "contributions": 5225,
       "commits": 42,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 5171
+      "restrictedContributions": 5181
     },
     {
       "username": "px-paiola",
       "name": "px-paiola",
       "avatar": "https://avatars.githubusercontent.com/u/241786967?s=200&v=4",
       "profile": "https://github.com/px-paiola",
-      "contributions": 1650,
+      "contributions": 1918,
       "commits": 0,
       "pullRequests": 0,
       "reviews": 0,
       "issues": 0,
-      "restrictedContributions": 1650
+      "restrictedContributions": 1918
     },
     {
       "username": "pedro-romao-px",
